@@ -1,8 +1,9 @@
 # pandas_python
 
 
-8. [Seccion 8 ](#schema8)
+8. [Seccion 8: Multindex ](#schema8)
 9. [Seccion 9: The GroupBy Object](#schema9)
+10. [Seccion 10: Merging, Joining, and Concatenating DataFrames](#schema10)
 
 [Source](schemars)
 
@@ -32,13 +33,19 @@
 
 ## 9. Seccion: The GroupBy Object
 
-- [1.- Intro to the GroupBy Module](#1)
-- [2.- First Operations with groupby object](#2)
-- [3.- Retrive A Group with the .get_group() Method](#3)
-- [4.- Methods on the GroupBy Object and DataFrame Columns](#4)
-- [5.- Grouping by Multipe Columns](#5)
-- [6.- The .agg() Method](#6)
-- [7.- Iteraning through Groups](#7)
+- 1.- Intro to the GroupBy Module
+- 2.- First Operations with groupby object
+- 3.- Retrive A Group with the .get_group() Method
+- 4.- Methods on the GroupBy Object and DataFrame Columns
+- 5.- Grouping by Multipe Columns
+- 6.- The .agg() Method
+- 7.- Iteraning through Groups
+
+<hr>
+
+<a name="schema10"></a>
+
+## Seccion 10: Merging, Joining, and Concatenating DataFrames
 
 
 <hr>
