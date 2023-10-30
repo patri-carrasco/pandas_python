@@ -4,6 +4,7 @@
 8. [Seccion 8: Multindex ](#schema8)
 9. [Seccion 9: The GroupBy Object](#schema9)
 10. [Seccion 10: Merging, Joining, and Concatenating DataFrames](#schema10)
+11. [Seccion 11: Working with Dates and Times in Datasets](#schema11)
 
 [Source](schemars)
 
@@ -54,6 +55,12 @@
 - 5.- Left Joins
 - 6.- The .join() Method
 - 7.- The pd.merge() Method
+
+<hr>
+
+<a name="schema11"></a>
+
+## Seccion 11: Working with Dates and Times in Datasets
 
 
 <hr>
