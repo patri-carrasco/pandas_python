@@ -47,6 +47,14 @@
 
 ## Seccion 10: Merging, Joining, and Concatenating DataFrames
 
+- 1.- Intro to Merging, Joining, and Concatenaning DataFrames
+- 2.- The pd.concat Method
+- 3.- Inner Joins
+- 4.- Outer Joins
+- 5.- Left Joins
+- 6.- The .join() Method
+- 7.- The pd.merge() Method
+
 
 <hr>
 
